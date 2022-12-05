@@ -1,6 +1,6 @@
 # ALIF SURYADI 
 
-## Halo semua! 👋
+## Hello! 👋
 
 Greetings, I am **ALIF SURYADI**;
 
