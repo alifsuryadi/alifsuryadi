@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🏫 I study at the Universitas Putra Indonesia YPTK Padang<br>🌱 I’m also learning C#, Unity, Blender & Others<br>👨‍💻 All of my projects are available at github.com/alifsuryadi
+🏫 I study at the Universitas Putra Indonesia YPTK Padang<br>🌱 I’m also learning React, NodeJs, Python & Others<br>👨‍💻 All of my projects are available at github.com/alifsuryadi
 
 
 ## 🌐 Socials:
