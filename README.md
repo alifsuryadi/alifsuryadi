@@ -1,4 +1,4 @@
-<p align="center">
+
 # ALIF SURYADI 
 
 ## Hello! 👋
@@ -13,7 +13,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=monokai&langs_count=12"/> <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=monokai&langs_count=20"/> <br/>
 
 
 ### ✍️ Random Dev Quote
@@ -22,4 +22,4 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.co/alifsuryadi) 
-</p>
+
