@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&pause=500&width=435&lines=ALIF+SURYADI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&vCenter=true&pause=500&width=435&lines=ALIF+SURYADI)](https://git.io/typing-svg)
 ---
 ## Hello! 👋
 
