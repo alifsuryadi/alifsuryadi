@@ -11,11 +11,9 @@
 
 > ### ⚙️ Mastered languages: 
 
-<div class="typing-container" style="display:flex; align-items:center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=tokyonight&langs_count=20" class="github-profile" style="margin-right:20px;" />
-  <div>
-    <img src="https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=JavaScript;PHP;HTML-CSS;JAVA;React.js;Node.js;Express.js;C#;C++;EJS;" />
-  </div>
+<div style="display:flex; align-items:center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=tokyonight&langs_count=20"  style="margin-right:20px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=JavaScript;PHP;HTML-CSS;JAVA;React.js;Node.js;Express.js;C#;C++;EJS;" />
 </div>
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
