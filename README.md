@@ -1,14 +1,3 @@
-<style>
-  div {
-    display: flex;
-    align-items: center;
-  }
-
-  img:first-child {
-    margin-right: 20px; /* Sesuaikan jarak antara gambar dan tulisan */
-  }
-</style>
-
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&pause=1000&width=435&lines=ALIF+SURYADI)](https://git.io/typing-svg)
 
@@ -22,8 +11,20 @@
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 > ### ⚙️ Mastered languages: 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=tokyonight&langs_count=20" />
+<style>
+
+  .typing-container {
+    display: flex;
+    align-items: center;
+  }
+
+  img.github-profile {
+    margin-right: 20px; 
+  }
+</style>
+
+<div class="typing-container">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=tokyonight&langs_count=20" class="github-profile" />
   <div>
     <img src="https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=JavaScript;PHP;HTML-CSS;JAVA;React.js;Node.js;Express.js;C#;C++;EJS;" />
   </div>
