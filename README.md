@@ -1,5 +1,16 @@
+<style>
+  div {
+    display: flex;
+    align-items: center;
+  }
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&pause=1000&width=435&lines=ALIF+SURYADI)](https://git.io/typing-svg)
+  img:first-child {
+    margin-right: 20px; /* Sesuaikan jarak antara gambar dan tulisan */
+  }
+</style>
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&pause=1000&width=435&lines=ALIF+SURYADI)](https://git.io/typing-svg)
 
 ## Hello! 👋
 
@@ -10,25 +21,23 @@
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-
 > ### ⚙️ Mastered languages: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=JavaScript;PHP;HTML-CSS;JAVA;React.js;Node.js;Express.js;C#;C++;EJS;)](https://git.io/typing-svg)
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=tokyonight&langs_count=20" />
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=JavaScript;PHP;HTML-CSS;JAVA;React.js;Node.js;Express.js;C#;C++;EJS;" />
+  </div>
+</div>
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
-
 > ### 👉 Skills: 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=tokyonight&langs_count=20"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&&vCenter=true&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alifsuryadi15) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alifsuryadi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alifsuryadi) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alifsuryadi_) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alifsuryadi_) 
-
-
 
 
 
