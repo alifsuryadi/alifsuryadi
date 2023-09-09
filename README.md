@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="./style.css.css">
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&pause=1000&width=435&lines=ALIF+SURYADI)](https://git.io/typing-svg)
 
@@ -11,17 +13,6 @@
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
 > ### ⚙️ Mastered languages: 
-<style>
-
-  .typing-container {
-    display: flex;
-    align-items: center;
-  }
-
-  img.github-profile {
-    margin-right: 20px; 
-  }
-</style>
 
 <div class="typing-container">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=tokyonight&langs_count=20" class="github-profile" />
