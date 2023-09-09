@@ -1,5 +1,5 @@
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&width=435&lines=ALIF+SURYADI)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=800&pause=1000&width=435&lines=ALIF+SURYADI)](https://git.io/typing-svg)
 
 ## Hello! 👋
 
@@ -18,8 +18,10 @@
 
 
 > ### 👉 Skills: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=tokyonight&langs_count=20"/> <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&layout=compact&theme=tokyonight&langs_count=20"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6b34eb&duration=4000&&vCenter=true&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
+
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
 
