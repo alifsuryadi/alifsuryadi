@@ -1,19 +1,21 @@
-<div align="center>
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&vCenter=true&pause=500&width=435&height=60&lines=ALIF+SURYADI" />
-  <h2>Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+</h1>
+<h2 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
----
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 # 💫 About Me:
-🏫 I study at the Universitas Putra Indonesia YPTK Padang<be>🌱 I’m also learning NodeJs, React, Python & Others<be>👨‍💻 All of my projects are available at github.com/alifsuryadi
+🏫 I study at the Universitas Putra Indonesia YPTK Padang<br>
+🌱 I’m also learning NodeJs, React, Python & Others<br>
+👨‍💻 All of my projects are available at github.com/alifsuryadi
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&line_height=10&hide=shaderlab&card_width=450&layout=compact&theme=tokyonight&langs_count=12"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&line_height=10&hide=shaderlab&card_width=300&layout=compact&theme=tokyonight&langs_count=12"/>
 
 
 ## ⚙️ Skills: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=600&duration=1000&pause=50&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=900&duration=1000&pause=50&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
 
 
 ### 🌐 Socials:
