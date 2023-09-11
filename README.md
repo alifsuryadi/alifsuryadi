@@ -1,4 +1,4 @@
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div align="center>
   <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&vCenter=true&pause=500&width=435&height=60&lines=ALIF+SURYADI" />
   <h2>Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 </div>
@@ -6,9 +6,7 @@
 ---
 
 # 💫 About Me:
-🏫 I study at the Universitas Putra Indonesia YPTK Padang<be>
-🌱 I’m also learning NodeJs, React, Python & Others<be>
-👨‍💻 All of my projects are available at github.com/alifsuryadi
+🏫 I study at the Universitas Putra Indonesia YPTK Padang<be>🌱 I’m also learning NodeJs, React, Python & Others<be>👨‍💻 All of my projects are available at github.com/alifsuryadi
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&line_height=10&hide=shaderlab&card_width=450&layout=compact&theme=tokyonight&langs_count=12"/>
