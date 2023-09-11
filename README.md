@@ -16,7 +16,7 @@
 
 
 ## ⚙️ Skills: 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=900&duration=1000&pause=50&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?weight=900&duration=1000&pause=500&lines=Front+End;Back+End;Full+Stack+Developer;Sys+Admin)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
