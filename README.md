@@ -11,7 +11,7 @@
 
 > ### ⚙️ Mastered languages: 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&line_height=2&card_width=500&layout=compact&theme=tokyonight&langs_count=4"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&hide=shaderlab&line_height=5&card_width=600&count_weight=20&layout=compact&theme=tokyonight&langs_count=20"/>
 
 
 ★━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━★
