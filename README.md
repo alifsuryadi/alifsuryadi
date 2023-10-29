@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=40&weight=800&center=true&vCenter=true&pause=500&width=435&height=60&lines=ALIF+SURYADI" />
   </h1>
 
-<h2 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hello!</h2>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
