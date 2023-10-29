@@ -3,7 +3,7 @@
   </h1>
 
 <h2 align="center">Hello!
-  ![Hi](https://github.com/alifsuryadi/alifsuryadi/assets/119511703/fba87797-5b48-4cf9-ba61-31ee5ed11797)
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" >
   </h2>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
