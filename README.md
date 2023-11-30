@@ -10,7 +10,7 @@
 
 ## 💫 About Me:
 🏫 I study at the Universitas Putra Indonesia YPTK Padang<br>
-🌱 I’m also learning React, Python, TenserFlow & Others<br>
+🌱 I’m also learning React, Python, TensorFlow & Others<br>
 👨‍💻 All of my projects are available at github.com/alifsuryadi
 
 
