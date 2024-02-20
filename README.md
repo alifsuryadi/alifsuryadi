@@ -7,8 +7,9 @@
 
 ## 💫 About Me:
 🏫 I study at the Universitas Putra Indonesia YPTK Padang<br>
-🌱 I’m also learning React, Python, TensorFlow & Others<br>
-👨‍💻 All of my projects are available at github.com/alifsuryadi
+🌱 I’m also learning NextJS, Python, TensorFlow & Others<br>
+✉️ You can contact me at alifsuryadi037@gmail.com
+<!-- 👨‍💻 All of my projects are available at github.com/alifsuryadi -->
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&line_height=10&card_width=300&layout=compact&theme=tokyonight&langs_count=16"/>
