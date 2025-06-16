@@ -35,6 +35,6 @@ jobs:
             git add "$FILE"
             git commit -m "Automated commit number $CURRENT_COUNT"
           done
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/alifsuryadi/alifsuryadi.git
+          git push https://x-access-token:${{ secrets.MY_GITHUB_TOKEN }}@github.com/alifsuryadi/alifsuryadi.git
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
