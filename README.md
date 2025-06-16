@@ -14,7 +14,7 @@
 
 <!-- 👨‍💻 All of my projects are available at github.com/alifsuryadi -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&line_height=10&card_width=300&layout=compact&theme=tokyonight&langs_count=16"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifsuryadi&line_height=10&card_width=300&layout=compact&theme=tokyonight&langs_count=16"/> -->
 <!-- &hide=shaderlab -->
 
 ## 🌐 Socials:
